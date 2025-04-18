@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Lando Norris",
+      "number":4,
+      "team": "McLaren Mercedes",
+      "points": 1069,
+      "podiums": 29,
+      "nationality": "British",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/norris"
+    },
+    {
+      "name": "Charles Leclerc",
+      "number":16,
+      "team": "Ferrari",
+      "points": 1450,
+      "podiums": 43,
+      "nationality": "Monegasque",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/leclerc"
+    },
+    {
+        "name":"Alex Albon",
+        "number":"23",
+        "team":"Williams Mercedes",
+        "points":"258",
+        "podiums":"2",
+        "nationality":"Thai",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/albon"
+    },
+    {
+        "name":"Jack Doohan",
+        "number":"7",
+        "team":"Alpine",
+        "points":"0",
+        "podiums":"0 :(",
+        "nationality":"Australian",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/doohan"
+    },
+    {
+        "name":"Liam Lawson",
+        "number":"30",
+        "nationality":"New Zealander",
+        "team":"Visa CashApp Racing Bulls",
+        "points":"6",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/lawson"
+    },
+    {
+        "name":"George Russell",
+        "nationality":"British",
+        "number":"63",
+        "team":"Mercedes",
+        "points":"759",
+        "podiums":"17",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/russell"
+    },
+    {
+        "name":"Fernando Alonso",
+        "nationality":"Spanish",
+        "number":"14",
+        "team":"Aston Martin",
+        "points":"2337",
+        "podiums":"106",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/alonso"
+    },
+    {
+        "name":"Pierre Gasly",
+        "nationality":"French",
+        "number":"10",
+        "team":"Alpine",
+        "points":"436",
+        "podiums":"5",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/gasly"
+    },
+    {
+        "name":"Carlos Sainz",
+        "nationality":"Spanish",
+        "number":"55",
+        "team":"Williams Mercedes",
+        "points":"1273.5",
+        "podiums":"27",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/sainz"
+    },
+    {
+        "name":"Kimi Antonelli",
+        "nationality":"Italian",
+        "number":"12",
+        "team":"Mercedes",
+        "points":"30",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/antonelli"
+    },
+    {
+        "name":"Isack Hadjar",
+        "nationality":"French",
+        "number":"6",
+        "team":"Visa CashApp Racing Bulls",
+        "points":"4",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/hadjar"
+    },
+    {
+        "name":"Lance Stroll",
+        "nationality":"Canadian",
+        "number":"18",
+        "team":"Aston Martin",
+        "points":"302",
+        "podiums":"3",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/stroll"
+    },
+    {
+        "name":"Oliver Bearman",
+        "nationality":"British",
+        "number":"87",
+        "team":"Haas",
+        "points":"12",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/bearman"
+    },
+    {
+        "name":"Lewis Hamilton",
+        "nationality":"British",
+        "number":"44",
+        "team":"Ferrari",
+        "points":"4877.5",
+        "podiums":"202",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/hamilton"
+    },
+    {
+        "name":"Esteban Ocon",
+        "nationality":"French",
+        "number":"31",
+        "team":"Haas",
+        "points":"455",
+        "podiums":"4",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/ocon"
+    },
+    {
+        "name":"Yuki Tsunoda",
+        "nationality":"Japanese",
+        "number":"22",
+        "team":"Red Bull",
+        "points":"94",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/tsunoda"
+    },
+    {
+        "name":"Gabriel Bortoleto",
+        "nationality":"Brazilian",
+        "number":"5",
+        "team":"Kick Sauber",
+        "points":"0",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/bortoleto"
+    },
+    {
+        "name":"Nico Hulkenberg",
+        "nationality":"German",
+        "number":"27",
+        "team":"Kick Sauber",
+        "points":"577",
+        "podiums":"0",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/hulkenberg"
+    },
+    {
+        "name":"Oscar Piastri",
+        "nationality":"Australian",
+        "number":"81",
+        "team":"McLaren Mercedes",
+        "points":"438",
+        "podiums":"12",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/piastri"
+    },
+    {
+        "name":"Max Verstappen",
+        "nationality":"Dutch",
+        "number":"1",
+        "team":"Red Bull",
+        "points":"3084.5",
+        "podiums":"114",
+        "image":"https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2025Drivers/verstappen"
+    }
+  ]
+  
